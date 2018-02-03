@@ -1,0 +1,14 @@
+{
+  "name": "isotropy-build-webpack",
+  "version": "0.0.1",
+  "author": "Isotropy Team<isotropy@agilehead.com>",
+  "contributors": ["Jeswin Kumar<jeswinpk@agilehead.com>"],
+  "scripts": {
+    "build": "./build.sh",
+    "test": "mocha dist/test/test.js"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {},
+  "devDependencies": {}
+}
